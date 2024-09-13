@@ -1,0 +1,579 @@
+root - INFO - Processing batch 1 with 5 CINs.
+root - INFO - Processing batch 1 with 5 CINs.
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Error handling CAPTCHA: unrecognized data stream contents when reading image file
+root - INFO - No CAPTCHA detected: unrecognized data stream contents when reading image file
+root - ERROR - Error handling CAPTCHA: unrecognized data stream contents when reading image file
+root - INFO - No CAPTCHA detected: unrecognized data stream contents when reading image file
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Attempt 1: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001003ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001003eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001003ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001003df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001003df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001000ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001000eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001000ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001000df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001000df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: cannot identify image file 'full_page_screenshot.png'
+root - INFO - No CAPTCHA detected: cannot identify image file 'full_page_screenshot.png'
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Attempt 2: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001000ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001000eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001000ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001000df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001000df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001003ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001003eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001003ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001003df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001003df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d4e3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104d4c9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104d4ac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104d4a15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104d3f5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104d3f064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001003ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001003eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001003ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001003df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001003df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (387, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000ee3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001000ec9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001000eac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001000ea15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001000df5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001000df064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d4e3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104d4c9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104d4ac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104d4a15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104d3f5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104d3f064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d4e3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104d4c9e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104d4ac10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104d4a15c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104d3f5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104d3f064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA solved: I cannot see or analyze any image. I am a text-based chat assistant and thus I cannot process any image.
+root - ERROR - Attempt 1: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d48bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA solved: I cannot see or analyze any image. I am only a text-based chat assistant. Please provide me with the math problem as text.
+root - ERROR - Attempt 1: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e1a3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104e189e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104e16c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104e1615c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104e0b5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104e0b064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e1a3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104e189e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104e16c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104e1615c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104e0b5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104e0b064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (394, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e1a3b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x0000000104e189e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x0000000104e16c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x0000000104e1615c cxxbridge1$string$len + 374576
+7   chromedriver                        0x0000000104e0b5d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x0000000104e0b064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d48bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e14bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001007b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001007a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001003a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001003e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100422228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001003dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001003de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100777e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010077c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010075d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010077d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010074dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010079ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010079ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001007a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Attempt 3: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001004b1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001004a966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x00000001000a4808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001000e8bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000100122228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001000dd698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001000de310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100477e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x000000010047c77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x000000010045d3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x000000010047d04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x000000010044dfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x000000010049ab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x000000010049ace4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001004a9308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Attempt 3: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105111208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010510966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d04808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104d48bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104d82228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104d3d698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104d3e310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001050d7e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001050dc77c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001050bd3ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001050dd04c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x00000001050adfc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001050fab68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001050face4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000105109308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Attempt 2: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e14bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA solved: I cannot see or analyze any image. I am a text-based chat assistant and thus I cannot process any image.
+root - INFO - CAPTCHA solved: I cannot see or analyze any image as I am only a text-based AI. 
+Please provide me with the math problem as text.
+root - INFO - CAPTCHA solved: I cannot see or analyze any image as I am a text-based chat assistant.
+root - ERROR - Attempt 3: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001051dd208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001051d566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104dd0808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x0000000104e14bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x0000000104e4e228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x0000000104e09698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x0000000104e0a310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x00000001051a3e78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x00000001051a877c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x00000001051893ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x00000001051a904c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000105179fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x00000001051c6b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x00000001051c6ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x00000001051d5308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x000000018e0b9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018e0b3e3c thread_start + 8
+
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
