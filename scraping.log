@@ -5,3 +5,1101 @@ root - INFO - CAPTCHA detected. Solving CAPTCHA...
 root - INFO - CAPTCHA detected. Solving CAPTCHA...
 root - INFO - CAPTCHA detected. Solving CAPTCHA...
 root - INFO - CAPTCHA solved: 142
+root - INFO - CAPTCHA solved: 190
+root - INFO - CAPTCHA solved: 81
+root - INFO - CAPTCHA solved: 86
+root - INFO - CAPTCHA solved: 62
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100765208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010075d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100358670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100397758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100396154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100393064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001003d6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100391698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100392310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010072be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010073077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001007113ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010073104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100701fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010074eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010074ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x000000010075d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U80100OD2024PTC046511: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100765208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010075d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100358670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100397758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100396154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100393064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001003d6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100391698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100392310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010072be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010073077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001007113ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010073104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100701fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010074eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010074ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x000000010075d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102e7d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000102e7566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102a70670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102aaf758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102aae154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102aab064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000102aee228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102aa9698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102aaa310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000102e43e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000102e4877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000102e293ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000102e4904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102e19fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102e66b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102e66ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102e75308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U28262TZ2024PTC032190: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102e7d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000102e7566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102a70670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102aaf758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102aae154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102aab064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000102aee228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102aa9698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102aaa310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000102e43e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000102e4877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000102e293ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000102e4904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102e19fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102e66b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102e66ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102e75308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001012c1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001012b966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100eb4670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100ef3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100ef2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100eef064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100f32228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100eed698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100eee310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000101287e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010128c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010126d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010128d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010125dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001012aab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001012aace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x00000001012b9308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U10790RJ2024PTC096422: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001012c1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001012b966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100eb4670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100ef3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100ef2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100eef064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100f32228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100eed698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100eee310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000101287e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010128c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010126d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010128d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010125dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001012aab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001012aace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x00000001012b9308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001046a1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010469966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104294670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001042d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001042d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001042cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104312228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001042cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001042ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104667e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010466c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010464d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010466d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010463dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010468ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010468ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104699308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U86100PN2024NPL233244: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001046a1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010469966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104294670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001042d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001042d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001042cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104312228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001042cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001042ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104667e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010466c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010464d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010466d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010463dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010468ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010468ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104699308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104a41208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104a3966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104634670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104673758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104672154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010466f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001046b2228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010466d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010466e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104a07e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104a0c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001049ed3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104a0d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001049ddfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104a2ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104a2ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104a39308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U47912TS2024PTC188120: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104a41208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104a3966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104634670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104673758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104672154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010466f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001046b2228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010466d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010466e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104a07e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104a0c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001049ed3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104a0d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001049ddfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104a2ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104a2ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104a39308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - Processing batch 2 with 5 CINs.
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA solved: 53
+root - INFO - CAPTCHA solved: 55
+root - INFO - CAPTCHA solved: 150
+root - INFO - CAPTCHA solved: 183
+root - INFO - CAPTCHA solved: 106
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104e0d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104e0566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104a00670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104a3f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104a3e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104a3b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104a7e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104a39698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104a3a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104dd3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104dd877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000104db93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104dd904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000104da9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104df6b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104df6ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104e05308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U85499AP2024OPC115576: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104e0d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104e0566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104a00670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104a3f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104a3e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104a3b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104a7e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104a39698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104a3a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104dd3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104dd877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000104db93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104dd904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000104da9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104df6b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104df6ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104e05308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104f19208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104f1166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104b0c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104b4b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104b4a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104b47064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104b8a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104b45698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104b46310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104edfe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104ee477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000104ec53ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104ee504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000104eb5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104f02b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104f02ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104f11308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U62091PN2024PTC233256: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104f19208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104f1166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104b0c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104b4b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104b4a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104b47064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104b8a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104b45698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104b46310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000104edfe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000104ee477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000104ec53ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000104ee504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000104eb5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104f02b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104f02ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104f11308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102659208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010265166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010224c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x000000010228b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x000000010228a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102287064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001022ca228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102285698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102286310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010261fe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010262477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001026053ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010262504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001025f5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102642b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102642ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102651308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U41001KA2024PTC191608: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102659208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010265166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010224c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x000000010228b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x000000010228a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102287064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001022ca228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102285698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102286310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010261fe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010262477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001026053ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010262504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001025f5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102642b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102642ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102651308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104a1d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104a1566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104610670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x000000010464f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x000000010464e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010464b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x000000010468e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104649698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010464a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001049e3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001049e877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001049c93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001049e904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001049b9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104a06b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104a06ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104a15308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U13996DL2024PTC434969: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000104a1d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000104a1566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104610670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x000000010464f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x000000010464e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010464b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x000000010468e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104649698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010464a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001049e3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001049e877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001049c93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001049e904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001049b9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000104a06b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000104a06ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000104a15308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x000000010110d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010110566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100d00670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100d3f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100d3e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100d3b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100d7e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100d39698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100d3a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001010d3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001010d877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001010b93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001010d904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001010a9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001010f6b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001010f6ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000101105308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U42201RJ2024PTC096427: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x000000010110d208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010110566c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100d00670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100d3f758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100d3e154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000100d3b064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100d7e228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000100d39698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000100d3a310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001010d3e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001010d877c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001010b93ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001010d904c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001010a9fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001010f6b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001010f6ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000101105308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - Processing batch 3 with 5 CINs.
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA solved: 10
+root - INFO - CAPTCHA solved: 111
+root - INFO - CAPTCHA solved: 76
+root - ERROR - Error handling CAPTCHA: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+root - INFO - No CAPTCHA detected: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+root - ERROR - Attempt 1: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (373, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e63b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001006e49e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001006e2c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001006e215c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001006d75d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001006d7064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Attempt 2: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (373, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e63b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001006e49e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001006e2c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001006e215c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001006d75d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001006d7064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: element click intercepted: Element <td class="companyname">...</td> is not clickable at point (373, 611). Other element would receive the click: <div id="captchaModal" class="modal" style="font-size: 16px;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e63b8 cxxbridge1$string$len + 391564
+4   chromedriver                        0x00000001006e49e4 cxxbridge1$string$len + 384952
+5   chromedriver                        0x00000001006e2c10 cxxbridge1$string$len + 377316
+6   chromedriver                        0x00000001006e215c cxxbridge1$string$len + 374576
+7   chromedriver                        0x00000001006d75d4 cxxbridge1$string$len + 330664
+8   chromedriver                        0x00000001006d7064 cxxbridge1$string$len + 329272
+9   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+10  chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+11  chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+12  chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+13  chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+14  chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+15  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+16  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+17  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+18  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+19  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+20  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Attempt 1: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e0bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - CAPTCHA solved: 111
+root - ERROR - Attempt 2: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e0bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100b11208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100b0966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100704670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100743758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100742154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010073f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100782228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010073d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010073e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100ad7e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100adc77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100abd3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100add04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100aadfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100afab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100aface4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100b09308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U47910UP2024OPC207303: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100b11208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100b0966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100704670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100743758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100742154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010073f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100782228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010073d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010073e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100ad7e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100adc77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100abd3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100add04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100aadfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100afab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100aface4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100b09308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100661208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010065966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100254670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100293758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100292154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010028f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001002d2228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010028d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010028e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100627e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010062c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010060d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010062d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001005fdfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010064ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010064ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100659308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U88900PN2024NPL233255: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100661208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010065966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100254670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000100293758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000100292154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x000000010028f064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001002d2228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x000000010028d698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x000000010028e310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100627e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010062c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010060d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010062d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x00000001005fdfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010064ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010064ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100659308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102e19208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000102e1166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102a0c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102a4b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102a4a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102a47064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000102a8a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102a45698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102a46310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000102ddfe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000102de477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000102dc53ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000102de504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102db5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102e02b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102e02ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102e11308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U96020TN2024PTC172438: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102e19208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000102e1166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102a0c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102a4b758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102a4a154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102a47064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000102a8a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102a45698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102a46310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000102ddfe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000102de477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000102dc53ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000102de504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102db5fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000102e02b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000102e02ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000102e11308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Attempt 3: Error clicking element: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c808 cxxbridge1$string$len + 89564
+3   chromedriver                        0x00000001006e0bcc cxxbridge1$string$len + 369056
+4   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+5   chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+6   chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+7   chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+8   chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+9   chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+10  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+11  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+12  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+13  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+14  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+15  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100ba1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100b9966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100794670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001007d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001007d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001007cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100812228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001007cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001007ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100b67e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100b6c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100b4d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100b6d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100b3dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100b8ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100b8ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100b99308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U70200GJ2024PTC154039: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100ba1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100b9966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100794670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001007d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001007d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001007cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100812228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001007cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001007ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100b67e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100b6c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100b4d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100b6d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100b3dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100b8ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100b8ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100b99308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - CAPTCHA solved: 86
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001006db758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001006da154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001006d7064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error scraping director details for U23939PN2024PTC233250: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100aa9208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100aa166c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x000000010069c670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001006db758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001006da154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001006d7064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x000000010071a228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001006d5698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001006d6310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100a6fe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100a7477c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100a553ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100a7504c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100a45fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100a92b68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100a92ce4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100aa1308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - INFO - Processing batch 4 with 5 CINs.
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA detected. Solving CAPTCHA...
+root - INFO - CAPTCHA solved: 83
+root - INFO - CAPTCHA solved: 77
+root - INFO - CAPTCHA solved: 100
+root - INFO - CAPTCHA solved: 191
+root - INFO - CAPTCHA solved: 94
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100da1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100d9966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100994670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001009d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001009d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001009cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100a12228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001009cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001009ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100d67e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100d6c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100d4d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100d6d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100d3dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100d8ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100d8ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100d99308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U32401GJ2024PTC154049: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100da1208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100d9966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100994670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001009d3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001009d2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001009cf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000100a12228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001009cd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001009ce310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100d67e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100d6c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100d4d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100d6d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100d3dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100d8ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100d8ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100d99308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000105191208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010518966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d84670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104dc3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104dc2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104dbf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104e02228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104dbd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104dbe310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000105157e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010515c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010513d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010515d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010512dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010517ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010517ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000105189308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U70200DL2024PTC434964: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000105191208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010518966c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104d84670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104dc3758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104dc2154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104dbf064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104e02228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104dbd698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104dbe310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000105157e78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010515c77c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x000000010513d3ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010515d04c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x000000010512dfc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010517ab68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010517ace4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000105189308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100c75208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100c6d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100868670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001008a7758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001008a6154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001008a3064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001008e6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001008a1698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001008a2310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100c3be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100c4077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100c213ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100c4104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100c11fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100c5eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100c5ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100c6d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U81210MH2024PTC430013: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000100c75208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x0000000100c6d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000100868670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x00000001008a7758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x00000001008a6154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x00000001008a3064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001008e6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x00000001008a1698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x00000001008a2310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x0000000100c3be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x0000000100c4077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x0000000100c213ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x0000000100c4104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000100c11fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x0000000100c5eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x0000000100c5ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x0000000100c6d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001052e5208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001052dd66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104ed8670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104f17758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104f16154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104f13064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104f56228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104f11698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104f12310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001052abe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001052b077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001052913ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001052b104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000105281fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001052ceb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001052cece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x00000001052dd308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U85500KL2024NPL088958: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x00000001052e5208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x00000001052dd66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000104ed8670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000104f17758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000104f16154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000104f13064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x0000000104f56228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000104f11698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000104f12310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x00000001052abe78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x00000001052b077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001052913ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x00000001052b104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000105281fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x00000001052ceb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x00000001052cece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x00000001052dd308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error handling CAPTCHA: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102465208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010245d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102058670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102097758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102096154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102093064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001020d6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102091698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102092310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010242be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010243077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001024113ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010243104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102401fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010244eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010244ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x000000010245d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
+root - ERROR - Error processing UID U62099DL2024PTC434965: Message: element not interactable
+  (Session info: chrome=128.0.6613.138)
+Stacktrace:
+0   chromedriver                        0x0000000102465208 cxxbridge1$str$ptr + 1927396
+1   chromedriver                        0x000000010245d66c cxxbridge1$str$ptr + 1895752
+2   chromedriver                        0x0000000102058670 cxxbridge1$string$len + 89156
+3   chromedriver                        0x0000000102097758 cxxbridge1$string$len + 347436
+4   chromedriver                        0x0000000102096154 cxxbridge1$string$len + 341800
+5   chromedriver                        0x0000000102093064 cxxbridge1$string$len + 329272
+6   chromedriver                        0x00000001020d6228 cxxbridge1$string$len + 604156
+7   chromedriver                        0x0000000102091698 cxxbridge1$string$len + 322668
+8   chromedriver                        0x0000000102092310 cxxbridge1$string$len + 325860
+9   chromedriver                        0x000000010242be78 cxxbridge1$str$ptr + 1693012
+10  chromedriver                        0x000000010243077c cxxbridge1$str$ptr + 1711704
+11  chromedriver                        0x00000001024113ec cxxbridge1$str$ptr + 1583816
+12  chromedriver                        0x000000010243104c cxxbridge1$str$ptr + 1713960
+13  chromedriver                        0x0000000102401fc8 cxxbridge1$str$ptr + 1521316
+14  chromedriver                        0x000000010244eb68 cxxbridge1$str$ptr + 1835588
+15  chromedriver                        0x000000010244ece4 cxxbridge1$str$ptr + 1835968
+16  chromedriver                        0x000000010245d308 cxxbridge1$str$ptr + 1894884
+17  libsystem_pthread.dylib             0x0000000189c79034 _pthread_start + 136
+18  libsystem_pthread.dylib             0x0000000189c73e3c thread_start + 8
+
