@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #THIS CODE ISNT IMPORTANT ----IGNORE(JUST A BACKUP CODE)
+=======
+# scraper_lib.py
+
+>>>>>>> 51f59fd42cbdffaa4f0b77701185b26f117d37b1
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
