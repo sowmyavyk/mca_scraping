@@ -1,0 +1,29 @@
+Exception in thread Thread-19 (process_excel):
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+  File "/var/folders/x4/f0yhttf57678gq_cpd4czrfm0000gn/T/ipykernel_29857/3819711806.py", line 212, in process_excel
+  File "/var/folders/x4/f0yhttf57678gq_cpd4czrfm0000gn/T/ipykernel_29857/3819711806.py", line 184, in process_in_parallel
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/folders/x4/f0yhttf57678gq_cpd4czrfm0000gn/T/ipykernel_29857/3819711806.py", line 114, in search_master_data
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102e83ed4 cxxbridge1$str$ptr + 1906348
+1   chromedriver                        0x0000000102e7c344 cxxbridge1$str$ptr + 1874716
+2   chromedriver                        0x0000000102a90264 cxxbridge1$string$len + 89492
+3   chromedriver                        0x0000000102ad4514 cxxbridge1$string$len + 368708
+...
+14  chromedriver                        0x0000000102e7bfe4 cxxbridge1$str$ptr + 1873852
+15  libsystem_pthread.dylib             0x0000000181af9034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000181af3e3c thread_start + 8
